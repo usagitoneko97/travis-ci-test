@@ -1,2 +1,2 @@
 test:
-	venv/Scripts/python.exe -m pytest
+	python -m pytest
