@@ -6,7 +6,7 @@ def test_add_1_with_1_expect_2():
 
 
 def test_add_1_with_3_expect_2():
-    assert add.add(1, 3) == 10
+    assert add.add(1, 3) == 4
 
 
 def test_sub_2_with_1_expect_1():
